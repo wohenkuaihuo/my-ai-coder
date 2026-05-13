@@ -1,0 +1,6 @@
+.env
+.ai_coder_workspace/
+.ai_coder_knowledge/
+__pycache__/
+*.pyc
+.venv/
